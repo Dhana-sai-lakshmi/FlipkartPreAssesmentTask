@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-10T12:19:59 IST" name="Suite" finished-at="2023-03-10T12:20:19 IST" duration-ms="20006">
+    <groups>
+    </groups>
+    <test started-at="2023-03-10T12:19:59 IST" name="Test" finished-at="2023-03-10T12:20:19 IST" duration-ms="20006">
+      <class name="flipkartTask.TestCase_001">
+        <test-method is-config="true" signature="launchingUrl()[pri:0, instance:flipkartTask.TestCase_001@7daa0fbd]" started-at="2023-03-10T12:19:59 IST" name="launchingUrl" finished-at="2023-03-10T12:20:03 IST" duration-ms="4656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchingUrl -->
+        <test-method signature="menuAndSubmenuPriniting()[pri:0, instance:flipkartTask.TestCase_001@7daa0fbd]" started-at="2023-03-10T12:20:03 IST" name="menuAndSubmenuPriniting" finished-at="2023-03-10T12:20:19 IST" duration-ms="15128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuAndSubmenuPriniting -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:flipkartTask.TestCase_001@7daa0fbd]" started-at="2023-03-10T12:20:19 IST" name="tearDown" finished-at="2023-03-10T12:20:19 IST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- flipkartTask.TestCase_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
